@@ -15,8 +15,6 @@ class Sundae extends IceCream {
 
 	  
 
-	  Sundae(){}
-
 	  Sundae(String icecream, int cost, String sundae, int topCost){
 
 	    super(icecream, cost);
